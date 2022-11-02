@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84e9a73b-5801-448b-9e82-3d710acfeef0" name="Changes" comment="" />
+    <list default="true" id="84e9a73b-5801-448b-9e82-3d710acfeef0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../UML Ex/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UML Ex/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UML Ex/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UML Ex/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UML Ex/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UML Ex/UML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UML Ex/src/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UML Ex/src/Guest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UML Ex/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UML Ex/src/RecEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Employee/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Employee/Main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +27,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GLOE7X13ENlWJytfyDIGnfm6jQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,6 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -48,6 +66,11 @@
       <option name="presentableId" value="Default" />
       <updated>1666164288020</updated>
       <workItem from="1666164289145" duration="1593000" />
+      <workItem from="1666423946702" duration="13000" />
+      <workItem from="1666591021988" duration="6000" />
+      <workItem from="1667378325916" duration="27000" />
+      <workItem from="1667378566478" duration="1203000" />
+      <workItem from="1667380204417" duration="85000" />
     </task>
     <servers />
   </component>
