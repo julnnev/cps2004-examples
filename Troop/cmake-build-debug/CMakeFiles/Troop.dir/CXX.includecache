@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/juliannevella/Documents/cps2004-examples/Troop/troop.cpp
+troop.hpp
+/Users/juliannevella/Documents/cps2004-examples/Troop/troop.hpp
+cstdlib
+-
+iostream
+-
+
+/Users/juliannevella/Documents/cps2004-examples/Troop/troop.hpp
+string
+-
+

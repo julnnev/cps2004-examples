@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84e9a73b-5801-448b-9e82-3d710acfeef0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../UML Ex/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UML Ex/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UML Ex/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UML Ex/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UML Ex/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UML Ex/UML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UML Ex/src/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UML Ex/src/Guest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UML Ex/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UML Ex/src/RecEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Troop/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Employee/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Employee/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +61,9 @@
       <workItem from="1667378325916" duration="27000" />
       <workItem from="1667378566478" duration="1203000" />
       <workItem from="1667380204417" duration="85000" />
+      <workItem from="1667380304132" duration="597000" />
+      <workItem from="1667483646299" duration="137000" />
+      <workItem from="1667483798251" duration="490000" />
     </task>
     <servers />
   </component>
